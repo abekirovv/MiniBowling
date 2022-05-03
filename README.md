@@ -1,0 +1,2 @@
+# MiniBowling
+maturitni projekt
